@@ -89,7 +89,15 @@ I have worked on various projects ranging from distributed systems to game algor
 
 ---
 
-<div align="center">
-  <sub>Check out my full portfolio at <a href="https://xiaoweny.vercel.app/">xiaoweny.vercel.app</a></sub><br>
-  <sub>"Talk is cheap. Show me the code."</sub>
+<div align="center"> 
+  <code>$ ssh root@xiaoweny.com</code><br>
+  <code>> Access Granted. Loading Portfolio... 100%</code>
+  <br><br>
+  
+  <a href="https://xiaoweny.vercel.app/">
+    <img src="https://img.shields.io/badge/ENTER_SYSTEM_ROOT_(Portfolio)-0d1117?style=for-the-badge&logo=vercel&logoColor=white&border=true" alt="Portfolio"/>
+  </a>
+  
+  <br><br>
+  <i>"It works on my machine... and yours too (thanks to Docker)."</i>
 </div>
