@@ -62,7 +62,7 @@ I have worked on various projects ranging from distributed systems to game algor
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Chord Protocol** | A fault-tolerant distributed key-value store based on the Chord DHT protocol in Go, featuring self-stabilizing ring topology, iterative lookups, and automatic data replication.| ![Go](https://img.shields.io/badge/-Go-black?logo=go) ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws) |
+| **Chord Protocol** | A fault-tolerant distributed key-value store based on the Chord DHT protocol in Go, featuring self-stabilizing ring topology, iterative lookups, and automatic data replication.| ![Go](https://img.shields.io/badge/-Go-black?logo=go) ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)|
 | **Candy Cane Out** | A humorous mystery visual novel with hand drawn pixel art, where players explore scenes and dialogue to solve the mystery of Santa Claus's murder. | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp&logoColor=white) |
 | **PHOBOS** | Card-based and Atmospheric horror theme gameplay with custom pixel art | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp&logoColor=white) |
 | **Distributed MapReduce Framework** | A fault-tolerant data processing system handling task distribution, crash recovery, and concurrent execution. | ![Go](https://img.shields.io/badge/-Go-black?logo=go) ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws) |
