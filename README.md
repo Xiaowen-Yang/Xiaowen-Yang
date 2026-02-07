@@ -70,26 +70,6 @@ I have worked on various projects ranging from distributed systems to game algor
 | **EV Charging Optimization** | Fleet management algorithm balancing power grid loads and renewable energy (Ranked 34th/280 globally). | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![Algorithms](https://img.shields.io/badge/-Algorithms-black) |
 
 <br>
-<div align="center">
-  <a href="https://xiaoweny.vercel.app/project/code.html">
-    <img src="https://img.shields.io/badge/View_More_Projects_Here-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View More Projects" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xiaowen-Yang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaowen-Yang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xiaowen-Yang&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak stats"/>
-</div>
-
----
 
 <div align="center"> 
   <code>$ ssh root@xiaoweny.com</code><br>
