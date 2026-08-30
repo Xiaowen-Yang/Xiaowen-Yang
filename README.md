@@ -20,12 +20,10 @@
 
 ### 👩‍💻 About Me
 
-I'm a **DevOps Engineer** turned **M.Sc. Student in Computer Systems and Cybersecurity** at **Chalmers University of Technology** in Gothenburg, Sweden.
+I'm a **Software Engineer** turned **M.Sc. Student in Computer Systems and Cybersecurity** at **Chalmers University of Technology** in Gothenburg, Sweden.
 
 I specialize in building robust cloud infrastructure, distributed systems, and low-level network applications. When the sun goes down, I'm usually awake coding, optimizing algorithms, or exploring game design.
 
-- 🔭 I’m currently working on **Distributed Systems & High-Performance Computing**
-- 🌱 I’m currently deepening my knowledge in **Full Stack Development & Game Design**
 - 💼 Previously: **DevOps Engineer** at China Baowu Steel Group (2 Years)
 - ⚽ **Team Player:** I was the Captain of a women's football team and a rural volunteer teaching team
 - ⚡ **Fun fact:** I'm a huge **Night Owl** 🦉. My best code is written while the world sleeps (usually with my dog🐕 by my side).
