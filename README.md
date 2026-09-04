@@ -25,7 +25,7 @@ I'm a **Software Engineer** turned **M.Sc. Student in Computer Systems and Cyber
 I specialize in building robust cloud infrastructure, distributed systems, and low-level network applications. When the sun goes down, I'm usually awake coding, optimizing algorithms, or exploring game design.
 
 - 💼 Previously: **DevOps Engineer** at China Baowu Steel Group (2 Years)
-- ⚽ **Team Player:** I was the Captain of a women's football team and a rural volunteer teaching team
+- ⚽  **Team Player:** I was the Captain of a women's football team and a rural volunteer teaching team
 - ⚡ **Fun fact:** I'm a huge **Night Owl** 🦉. My best code is written while the world sleeps (usually with my dog🐕 by my side).
 
 ---
